@@ -1598,6 +1598,8 @@ h1 {
 
 .h2,
 h2 {
+    text-align: center;
+    background-color: #F3976C;
     font-size: 30px
 }
 
